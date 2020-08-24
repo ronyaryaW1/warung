@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+.upload{
+	position: absolute;
+	width: 473px;
+	height: 480.1px;
+	left: 247px;
+	top: 137px;
+	background: #E5E5E5;
+	text-align: center;
+}
+.plus{
+	display:flex;
+    align-items:center;
+    justify-content: center;
+    margin-top: 170px;
+}
+.row{
+	flex-direction: row;
+	display: flex;
+}
+
+
